@@ -1,7 +1,7 @@
 <?php // callback.php
 
 require "vendor/autoload.php";
-require_once('vendor/linecorp/line-bot-sdk/line-bot-sdk-tiny/LINEBotTiny.php');
+require_once('vendor/linecorp/line-bot-sdk/line-bot-sdk-tiny/LINENotify.php');
 
 $access_token = 'fSosnuO24w150m7mcTIgmCmJhLTe1QHcGcynwrBPjRs';
 
